@@ -7,7 +7,9 @@
 ## cacheVector returns either the cached inverted matric or calculates the    ##
 ## inverted matrix and puts it into cache                                     ##
 ## ---------------------------------------------------------------------------##
-## Data Science - R Programming - Coursera - Nov.2014                         ##
+## Data Science - R Programming - Coursera                                    ##
+## Assignment 2 - Lexical Scoping                                             ##
+## Nov.2014                                                                   ##
 ## ---------------------------------------------------------------------------##
 
 ## Given a matrix x, this function returns an object list containing functions to:
